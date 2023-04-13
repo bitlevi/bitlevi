@@ -4,7 +4,7 @@ body {
   padding: 20px;
   max-width: 720px;
   text-align: justify;
-  background-color: #050e1b;
+  background-color: #1F1F26;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
@@ -19,7 +19,7 @@ h5,
 h6,
 strong,
 b {
-  color: #72BBF1;
+  color: #1F1F26;
 }
 
 a {
@@ -28,7 +28,7 @@ a {
 }
 
 a:hover, a:active {
-  color: #72BBF1;
+  color: #1F1F26;
   text-decoration: none;
 }
 
