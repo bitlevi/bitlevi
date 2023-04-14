@@ -19,7 +19,7 @@ h5,
 h6,
 strong,
 b {
-  color: #1F1F26;
+  color: #42a1b6;
 }
 
 a {
@@ -28,7 +28,7 @@ a {
 }
 
 a:hover, a:active {
-  color: #1F1F26;
+  color: #42a1b6;
   text-decoration: none;
 }
 

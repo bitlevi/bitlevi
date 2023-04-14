@@ -11,5 +11,4 @@ I enumerate the countless facets of the Bitcoin and privacy rabbit holes by pres
 This journey doesn't start alone. It is fueled by the open and supportive communities in the space. I want to take this mission higher by working with a Bitcoin centric company, and I will.
 
 #### ABOUT
-I am on a journey towards spirituality and sovereignty by tinkering with the world inside and around me. Honest, open and raw communties saved me and I am here to contribute back – more about me.
-
+I am on a journey towards spirituality and sovereignty by tinkering with the world inside and around me. Honest, open and raw connections saved me and I am here to contribute back – more about me.
