@@ -8,7 +8,7 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: #f0f0f0;
+  color: #ddd;
 }
 
 h1,
@@ -19,16 +19,16 @@ h5,
 h6,
 strong,
 b {
-  color: #42a1b6;
+  color: #158DD3;
 }
 
 a {
-  color: #ffffff;
+  color: #ddd;
   text-decoration: none;
 }
 
 a:hover, a:active {
-  color: #42a1b6;
+  color: #158DD3;
   text-decoration: none;
 }
 

@@ -1,9 +1,12 @@
 ---
-title: "Open letter to Peach Bitcoin"
+author: Bitlevi
 date: 2023-04-14
 draft: false
+Title: Open letter to Peach Bitcoin
 ---
-
+Bitcoin is an open source project that has transformed countless lives. This letter expressed my opinion on Peach Bitcoin being closed source despite offering an outstanding peer-to-peer product. Find the original tweet **[here](https://twitter.com/Bit_levi/status/1646817402858926080?s=20)**.
+<!--more-->
+---
 Dear Peach, 
 
 This open letter comes out of love because, as one Peacher said:
@@ -36,4 +39,12 @@ Stay awesome,
 
 Bitlevi
 
-Visit Peach Bitcoin: peachbitcoin.com
+---
+
+#### Learn more about Peach Bitcoin:
+
+- Visit [Peach Bitcoin](https://peachbitcoin.com/)
+
+- [Peach's twitter](https://twitter.com/peachbitcoin)
+
+- [Peach's telegram](https://t.me/+GkOW1J-ixBBkZWRk)
