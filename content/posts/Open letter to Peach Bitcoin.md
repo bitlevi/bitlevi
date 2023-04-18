@@ -4,7 +4,7 @@ date: 2023-04-14
 draft: false
 Title: Open letter to Peach Bitcoin
 ---
-Bitcoin is an open source project that has transformed countless lives. This letter expressed my opinion on Peach Bitcoin being closed source despite offering an outstanding peer-to-peer product. Find the original tweet **[here](https://twitter.com/Bit_levi/status/1646817402858926080?s=20)**.
+Bitcoin is an open-source project that has transformed countless lives. This letter expresses my opinion on Peach Bitcoin being a closed source despite offering an outstanding peer-to-peer product. Find the original tweet **[here](https://twitter.com/Bit_levi/status/1646817402858926080?s=20)**.
 <!--more-->
 ---
 Dear Peach, 

@@ -4,13 +4,17 @@ draft: false
 menu: About
 ---
 
-### In the next 3 months, my goal is to work with awesome people and help build Bitcoin and Sovereign centric tools to empower individuals.
+### I will be part of a company with incredible individuals that build Bitcoin-centric tools in the next three months.
 
-After working in data analytics for various start ups, I discovered Bitcoin and it redesigned my life. Data was an obsession in every company I worked with and the amount of collected blew my mind.
+I worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. However, one aspect bothered me.
 
-Over the last year, my energy was focused on understanding Bitcoin and everything that surrounds it. As I spend more time being absorbed by the Bitcoin rabbit hole, I wish to leverage this energy towards building around Bitcoin.
+Data was an obsession in every company I worked with, and the amount collected left me speechless. **Modern tools track everything users do.**
 
-Ideally, I want my values to be aligned with the people and companies I work with and that's where this blog comes into play.
+Thankfully, I discovered Bitcoin, and it redesigned my life. 
+
+Over the last year, I have focused my energy on Bitcoin and everything surrounding it. As I spend more time absorbed by the Bitcoin rabbit hole, I wish to leverage this energy towards building around this revolution. 
+
+The open-source community has always been kind enough to answer my basic questions, and I wish to dedicate my energy to the creation of the new world on a Bitcoin standard whilst advocating for privacy.
 
 ---
 #### GET IN TOUCH
