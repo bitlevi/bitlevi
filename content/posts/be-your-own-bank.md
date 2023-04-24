@@ -53,6 +53,6 @@ Below are some of the **privacy** focused wallets available. I put an emphasis o
 - iOS → Stack Duo | [Website](https://stackwallet.com/) | [Podcast Episode](https://www.youtube.com/watch?v=51V391htvRg) | [Source Code](https://github.com/cypherstack/stack_wallet) 
 
 #### Cold Wallet: 
-- Passport from Foundation Devices | [Website](https://foundationdevices.com/) | [Tutorial](https://docs.foundationdevices.com/) | [Source Code](https://github.com/foundation-devices)  🏆
-- Jade from Blockstream [Website](https://blockstream.com/jade/) | [Tutorial](https://youtu.be/_U1jsTeqbTw) | [Source Code](https://github.com/Blockstream/jade)
-- SeedSigner | [Website](https://seedsigner.com/) | [Tutorial](https://youtu.be/AZqlIkJf0mA) | [Source Code](https://github.com/SeedSigner/seedsigner)
+- Passport from Foundation Devices → [Website](https://foundationdevices.com/) | [Tutorial](https://docs.foundationdevices.com/) | [Source Code](https://github.com/foundation-devices)  🏆
+- Jade from Blockstream → [Website](https://blockstream.com/jade/) | [Tutorial](https://youtu.be/_U1jsTeqbTw) | [Source Code](https://github.com/Blockstream/jade)
+- SeedSigner → [Website](https://seedsigner.com/) | [Tutorial](https://youtu.be/AZqlIkJf0mA) | [Source Code](https://github.com/SeedSigner/seedsigner)

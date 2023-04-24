@@ -1,6 +1,6 @@
 ---
 author: Bitlevi
-date: 2023-04-28
+date: 2023-04-24
 draft: False
 Title: Bitcoin is pseudonymous
 ---
@@ -10,16 +10,16 @@ With the unfortunate rise of centralised exchanges, which ask for more informati
 
 Centralised exchanges and companies work closely with regulators to stay in business. They work and sell information to Chainalysis, which creates opaque and closed-source work, resulting in innocent people being sent to prison.
 
-Therefore, learning how to preserve your privacy when transacting with Bitcoin is vital. Here are some standards to apply.
+Therefore, learning to preserve your privacy when transacting with Bitcoin is vital. Here are some standards to apply.
 
-#### Learn about UTXOs Management
+### Learn about UTXOs Management
 Privacy-focused wallets such as Sparrow Wallet or Samourai Wallet enable you to control your transactions better. You can label every input and output, known as coin control or UTXO management.
 
 Bitcoin and its community are fortunate to have outstanding cypherpunks such as Samourai Wallet. They have put together an insightful and short series on UTXOs management. This is a non-negotiable to understand better how transactions work in Bitcoin and how we leave fingerprints on the blockchain without realising it.
 
-[Bitcoin Privacy Series](https://www.youtube.com/playlist?list=PLIBmWVGQhizLrPjpFMN5bQdbOZRxCQXUg) by Samourai Wallet 
+[**Bitcoin Privacy Series**](https://www.youtube.com/playlist?list=PLIBmWVGQhizLrPjpFMN5bQdbOZRxCQXUg) by Samourai Wallet 
 
-#### Learn about forward-looking anonymity sets
+### Learn about forward-looking anonymity sets
 I mentioned that centralised exchanges or companies such as Wasabi work with Chainalysis companies, but how do they determine who is behind a transaction? 
 
 When you open an account with any centralised exchanges, you are obliged to provide one of the following:
@@ -43,13 +43,14 @@ After buying some Bitcoin, these companies can firmly say this UTXO belongs to y
 Thankfully there are two standards we can apply to improve our privacy.
 
 Firstly, learn how to use Whirlpool CoinJoin. 
-"A Whirlpool CoinJoin is just like any other bitcoin transaction, made up of inputs and outputs. However each input is provided by a different bitcoin wallet, and each output is returned to one of the participating wallets. This transaction is organized by Samourai Wallet’s central Whirlpool coordinator, all the time without the coordinator knowing which input belongs to which output (“blinded”), and without you ever giving up custody of your bitcoin."
+"A Whirlpool CoinJoin is just like any other Bitcoin transaction, comprised of inputs and outputs. However, each input is provided by a different Bitcoin wallet, and each output is returned to one of the participating wallets. This transaction is organised by Samourai Wallet’s central Whirlpool coordinator, all the time without the coordinator knowing which input belongs to which output (“blinded”), and without you ever giving up custody of your bitcoin."
 
-[Track Me If You Can — How Bitcoin Forward-Looking Anonymity Sets Work](https://bitcoinmagazine.com/technical/how-bitcoin-anonymity-sets-work)
+Learn more about Forward-Looking Anonymity:
+[**Track Me If You Can — How Bitcoin Forward-Looking Anonymity Sets Work**](https://bitcoinmagazine.com/technical/how-bitcoin-anonymity-sets-work)
 
 Before mixing, we want to ensure that we source our Bitcoin from a decentralised and peer-to-peer exchange to avoid providing sensitive information.
 
-#### Peer-to-peer only
+### Peer-to-peer only
 Secondly, buy your Bitcoin only from decentralised and peer-to-peer exchanges. These exchanges do not ask for any information, not even an email for the best. Here are some recommendations:
 
 - [**Hodl Hodl**](https://hodlhodl.com/)
@@ -58,4 +59,19 @@ Secondly, buy your Bitcoin only from decentralised and peer-to-peer exchanges. T
 - [**Peach Bitcoin**](https://peachbitcoin.com/)
 - [**Agora Desk**](https://agoradesk.com/)
 
-#### Surround yourself with privacy and Bitcoin-focused communities
+You might pay 2-5% extra on your Bitcoin but privacy has a cost but immense value. Do not undervalue it.
+
+### Surround yourself with privacy and Bitcoin-focused communities
+When you use open-source projects, the companies or communities behind likely have public groups. 
+
+I have found that asking basic (sometimes foolish) questions there results in conversations, a better understanding of complex topics and a sense of community that's lost today. 
+
+These open-source communities are users, just like you, and they most likely asked the same questions that you have. These groups are libraries and sources of knowledge open to everyone willing to learn. 
+
+Here are some telegram groups you can join: 
+
+- Samourai Wallet → [Telegram](https://t.me/SamouraiWallet) | [Twitter](https://twitter.com/samouraiwallet)
+- Foundation Devices → [Telegram](https://t.me/foundationdevices) | [Twitter](https://twitter.com/FOUNDATIONdvcs/)
+- Sparrow Wallet → [Telegram](https://t.me/sparrowwallet) | [Twitter](https://twitter.com/SparrowWallet) 
+- Ronin Dojo → [Telegram](https://t.me/RoninDojoNode) | [Twitter](https://twitter.com/RoninDojoNode) 
+- The Sovereign Bitcoiner → [Telegram](https://t.me/SovereignBitcoiner) | [Twitter](https://twitter.com/SovrnBitcoiner) 
