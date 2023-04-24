@@ -1,7 +1,7 @@
 #### MISSION
 This place aims at crystallising what I learn on my journey to sovereignty by exploring Bitcoin, FOSS tools, hardware and software.
 
-In the attempt to learn more, I enumerate the countless facets of the Bitcoin and privacy rabbit holes by presenting each item in an approachable way. Both might seem technical and daunting, *at times, it is for me*, but keep climbing.
+In the attempt to learn more, I enumerate the facets of the Bitcoin and privacy rabbit holes. Both might seem technical and daunting, *at times, it is for me*, but keep climbing.
 
 This journey doesn't start alone, as it follows the open and supportive communities in the space. I want to take this mission higher by working with a Bitcoin-centric company, and I will.
 
