@@ -1,6 +1,6 @@
 ---
 author: Bitlevi
-date: 2023-04-24
+date: 2023-04-25
 draft: False
 Title: The Rise and Fall of the Roman Empire's Currency
 ---
