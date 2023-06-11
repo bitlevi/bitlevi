@@ -8,7 +8,7 @@ menu: About
 
 I worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. However, one aspect bothered me.
 
-Data was an obsession in every company I worked with, and the amount collected left me speechless. **Modern tools track everything users do.**
+Data was an obsession in every company I worked with, and the amount collected left me speechless.
 
 Thankfully, I discovered Bitcoin, and it redesigned my life. 
 
