@@ -4,7 +4,7 @@ draft: false
 menu: About
 ---
 
-### I will be part of a company with incredible individuals that build Bitcoin-centric tools in the next three months.
+### I will be part of a company with incredible individuals that build Bitcoin-centric tools.
 
 I worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. However, one aspect bothered me.
 
@@ -23,4 +23,6 @@ Nostr - npub1mthuwux9lg5u654vhdzyukhnlj2tt0mhtm5kqupl6rca53qgtwcqq4jrx5
 Twitter - [@Bit_levi](https://twitter.com/Bit_levi)
 
 GitHub - [bitlevi](https://github.com/bitlevi)
+
+PayNym - [+shinyfrost520](https://paynym.is/+shinyfrost520)
 

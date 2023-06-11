@@ -15,3 +15,5 @@ Nostr - npub1mthuwux9lg5u654vhdzyukhnlj2tt0mhtm5kqupl6rca53qgtwcqq4jrx5
 Twitter - [@Bit_levi](https://twitter.com/Bit_levi)
 
 GitHub - [bitlevi](https://github.com/bitlevi)
+
+PayNym - [+shinyfrost520](https://paynym.is/+shinyfrost520)
