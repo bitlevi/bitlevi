@@ -20,16 +20,17 @@ h6,
 strong,
 b {
   color: #158DD3;
+  text-align: left;
 }
 
 a {
-  color: #ddd;
-  text-decoration: none;
+  color: #158DD3;
+  text-decoration: #ddd;
 }
 
 a:hover, a:active {
   color: #158DD3;
-  text-decoration: none;
+  text-decoration: #158DD3;
 }
 
 .title {

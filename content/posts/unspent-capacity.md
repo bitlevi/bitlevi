@@ -2,7 +2,7 @@
 author: Bitlevi
 date: 2023-06-11
 draft: false
-Title: What is the unspent capacity in Whirlpool?
+Title: What is the "Unspent Capacity" in Whirlpool?
 ---
 If you happen to follow [**Samourai Wallet**](https://twitter.com/SamouraiWallet) or [**TDevD**](https://twitter.com/SamouraiDev) on Twitter, you may have noticed their posts about "Unspent Capacity" and wondered what it meant. You may have also been curious as to why the Samourai Wallet cypherpunks seem so thrilled when this number increases (I certainly was).
 
@@ -51,3 +51,14 @@ This estimation can be calculated for the entire Whirlpool service or segregated
 ## Conclusion
 
 Whirlpool's approach to privacy is designed to enhance the anonymity of Bitcoin transactions, making it an essential tool for anyone serious about maintaining their privacy in the Bitcoin space. By enhancing privacy, the service is contributing to the ongoing evolution and maturation of Bitcoin as a truly decentralized and private peer-to-peer electronic cash system.
+
+## Helpful Links
+- Samourai Wallet's [Website](https://samouraiwallet.com/).
+- Samourai Wallet's [Whirlpool documentation](https://docs.samourai.io/whirlpool).
+- Samourai Wallet's [Whirpool page](https://www.samouraiwallet.com/whirlpool).
+- Samourai Wallet [Telegram](https://t.me/SamouraiWallet)
+- [Donate](https://samouraiwallet.com/donate) to Samourai Wallet.
+
+## Worth following
+- [TDevD](https://twitter.com/SamouraiDev) for daily hard-truths.
+- [Samourai Wallet](https://twitter.com/SamouraiWallet) for daily dose of madness and cypherpunk philosophy.
