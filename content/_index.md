@@ -1,12 +1,12 @@
 #### MISSION
-This place aims at crystallising what I learn on my journey to sovereignty by exploring Bitcoin, FOSS tools, hardware and software.
+This place crystallises what I learn on my journey to sovereignty by exploring Bitcoin, FOSS tools and the cypherpunk movement.
 
-In the attempt to learn more, I enumerate the facets of the Bitcoin and privacy rabbit holes. Both might seem technical and daunting, *at times, it is for me*, but keep climbing.
+In the attempt to learn more, I enumerate the facets of the Bitcoin and privacy rabbit holes. Both might seem technical and daunting, *at times, it is for me*, but I keep climbing.
 
-This journey doesn't start alone, as it follows the open and supportive communities in the space. I want to take this mission higher by working with a Bitcoin-centric company, and I will.
+This journey follows the open and supportive communities in the space. My goal is to take my mission higher by working with a Bitcoin-centric company.
 
 #### ABOUT
-Honesty advocate, one day at the time. – [**more here.**](about)
+Honesty advocate – [**more here.**](about)
 
 ---
 #### GET IN TOUCH

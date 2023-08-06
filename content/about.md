@@ -6,15 +6,11 @@ menu: About
 
 ### I will be part of a company with incredible individuals that build Bitcoin-centric tools.
 
-I worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. However, one aspect bothered me.
+I have worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. 
 
-Data was an obsession in every company I worked with, and the amount collected left me speechless.
+Over the last year, I have focused my energy on Bitcoin and everything surrounding it. As I spend more time absorbed by the Bitcoin rabbit hole, I wish to leverage this energy towards building around this revolutionary freedom tool. 
 
-Thankfully, I discovered Bitcoin, and it redesigned my life. 
-
-Over the last year, I have focused my energy on Bitcoin and everything surrounding it. As I spend more time absorbed by the Bitcoin rabbit hole, I wish to leverage this energy towards building around this revolution. 
-
-The open-source community has always been kind enough to answer my basic questions, and I wish to dedicate my energy to the creation of the new world on a Bitcoin standard whilst advocating for privacy.
+The open-source community has always been kind enough to answer my basic questions, and I wish to dedicate my energy to the creation of tools that enhance freedom and privacy.
 
 ---
 #### GET IN TOUCH
