@@ -14,11 +14,15 @@ Supported by the invaluable insights from the open-source community, I'm committ
 
 ---
 #### GET IN TOUCH
+[SimpleX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fr_jnO4Xc6PvTzBfC5zlZRymKGN2FfwqK%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAfRZmImjcFNw90R_9cxBBSgix88ZXcGzGcsrKIl52yRY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion) 
+
+[Twitter](https://twitter.com/Bit_levi)
+
+[GitHub](https://github.com/bitlevi)
+
+[PayNym](https://paynym.is/+shinyfrost520)
+
+[Email](hello@bitlevi.com)
+
 Nostr - npub1mthuwux9lg5u654vhdzyukhnlj2tt0mhtm5kqupl6rca53qgtwcqq4jrx5
-
-Twitter - [@Bit_levi](https://twitter.com/Bit_levi)
-
-GitHub - [bitlevi](https://github.com/bitlevi)
-
-PayNym - [+shinyfrost520](https://paynym.is/+shinyfrost520)
 
