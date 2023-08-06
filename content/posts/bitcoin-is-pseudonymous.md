@@ -4,13 +4,9 @@ date: 2023-04-24
 draft: False
 Title: Bitcoin is pseudonymous
 ---
-Bitcoin is a pseudonymous currency. The ledger's transparency is a blessing and a curse. 
+Bitcoin is a pseudonymous cash system. The ledger's transparency is a blessing and a curse. 
 
-With the unfortunate rise of centralised exchanges, which ask for more information than necessary, your fingerprint on the blockchain is clear.
-
-Centralised exchanges and companies work closely with regulators to stay in business. They work and sell information to Chainalysis, which creates opaque and closed-source work, resulting in innocent people being sent to prison.
-
-Therefore, learning to preserve your privacy when transacting with Bitcoin is vital. Here are some standards to apply.
+With the unfortunate rise of centralised exchanges asking for more information than necessary, your fingerprint on the blockchain is clear. Centralised exchanges and chainalysis companies work closely with regulators to stay in business. Therefore, learning to preserve your privacy when transacting with Bitcoin is vital. Here are some standards to apply. 
 
 ### Learn about UTXOs Management
 Privacy-focused wallets such as Sparrow Wallet or Samourai Wallet enable you to control your transactions better. You can label every input and output, known as coin control or UTXO management.
