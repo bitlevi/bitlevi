@@ -17,7 +17,11 @@ menu:
       name: Guides
       url: /guides
       weight: 2
+    - identifier: guides
+      name: Guides
+      url: /guides
+      weight: 3
     - identifier: about
       name: About
       url: /about
-      weight: 3
+      weight: 4
