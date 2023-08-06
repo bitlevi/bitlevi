@@ -4,13 +4,13 @@ draft: false
 menu: About
 ---
 
-### I will be part of a company with incredible individuals that build Bitcoin-centric tools.
+### I will be part of a company with incredible individuals that build Bitcoin-centric and privacy-focused tools.
 
-I have worked in data analytics for various start-ups, where I managed projects and helped companies take decisions based on the data they collected. I strategised scalable data modelling solutions, data pipelines and dashboards. 
+I bring extensive experience from data analytics, having steered projects for various startups. My expertise lies in crafting data-driven strategies, designing scalable models, pipelines, and dashboards that drive actionable insights.
 
-Over the last year, I have focused my energy on Bitcoin and everything surrounding it. As I spend more time absorbed by the Bitcoin rabbit hole, I wish to leverage this energy towards building around this revolutionary freedom tool. 
+Recently, I've channeled my passion into understanding Bitcoin's vast potential. With a deep appreciation for its revolutionary aspects, I'm eager to apply my skills in this domain.
 
-The open-source community has always been kind enough to answer my basic questions, and I wish to dedicate my energy to the creation of tools that enhance freedom and privacy.
+Supported by the invaluable insights from the open-source community, I'm committed to innovating tools that champion freedom and privacy. I'm excited to bring this dedication to a team that values transformative tech and real-world impact.
 
 ---
 #### GET IN TOUCH

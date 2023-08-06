@@ -1,9 +1,9 @@
 #### MISSION
-This place crystallises what I learn on my journey to sovereignty by exploring Bitcoin, FOSS tools and the cypherpunk movement.
+This site captures my journey towards sovereignty through Bitcoin, FOSS tools, and the cypherpunk movement.
 
-In the attempt to learn more, I enumerate the facets of the Bitcoin and privacy rabbit holes. Both might seem technical and daunting, *at times, it is for me*, but I keep climbing.
+While delving into Bitcoin and privacy can be technical, I continue to explore.
 
-This journey follows the open and supportive communities in the space. My goal is to take my mission higher by working with a Bitcoin-centric company.
+I'm inspired by the open communities in this space and aim to collaborate with a Bitcoin-centric and privacy-focused company.
 
 #### ABOUT
 Honesty advocate – [**more here.**](about)
